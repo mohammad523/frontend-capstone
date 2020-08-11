@@ -45,6 +45,8 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 - Voice assistant that can create posts, like, delete, and have a little conversation.
 - Instant messaging using firebase
+- Allow users to create custom dialogs with voice assistant
+
 
 ## Components
 ##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
@@ -85,6 +87,7 @@ Unless otherwise noted, time is listed in hours:
 | set up back-end user authentication | M | 2 |  |  |
 | learn useContext | M | 1 |  |  |
 | set up api structure for personal assistant | M | 2 |  | |
+| Allow users to create custom dialogues with PA | || || ||
 | Animations everywhere | L | 3 |  | |
 | Total | H | 35 | | |
 
