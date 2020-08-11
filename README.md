@@ -87,9 +87,9 @@ Unless otherwise noted, time is listed in hours:
 | set up back-end user authentication | M | 2 |  |  |
 | learn useContext | M | 1 |  |  |
 | set up api structure for personal assistant | M | 2 |  | |
-| Allow users to create custom dialogues with PA | || || ||
+| Allow users to create custom dialogues with PA | L | 3 | || ||
 | Animations everywhere | L | 3 |  | |
-| Total | H | 35 | | |
+| Total | H | 38 | | |
 
 ## Additional Libraries
 Firebase - Instant Messaging
