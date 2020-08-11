@@ -27,6 +27,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Sp
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
 - [wireframes](https://xd.adobe.com/view/9df55e9b-5a4b-4611-bf65-437671734eaf-c8a6/)
+- [wireframes on imgur](https://imgur.com/a/Y6aV0AH)
 
 
 ### MVP/PostMVP - 5min
