@@ -10,8 +10,8 @@
 - [add your deployment link]()
 
 ## Stack
-React.js
-Firebase
+- React.js
+- Firebase
 
 ## Project Description
 
