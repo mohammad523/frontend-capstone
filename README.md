@@ -9,6 +9,10 @@
 
 - [add your deployment link]()
 
+## Stack
+React.js
+Firebase
+
 ## Project Description
 
 For this project, I plan to make a social media app that has a personal assistant to help control it. The personal assistant will have voice recognition capabilities and the user will be able to post, like, delete, and ask miscellaneous questions using the personal assistant. There are multiple JavaScript and React APIs that support voice recognition and text to speech.
@@ -27,7 +31,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Sp
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
 - [wireframes](https://xd.adobe.com/view/9df55e9b-5a4b-4611-bf65-437671734eaf-c8a6/)
-- [wireframes on imgur](https://imgur.com/a/Y6aV0AH)
+- [wireframes(Desktop and Mobile)](https://imgur.com/a/Y6aV0AH)
+- [Backend Architecture](https://imgur.com/a/XA04S4W)
+- [React File Structure](https://imgur.com/a/KuqWhvZ)
 
 
 ### MVP/PostMVP - 5min
@@ -36,10 +42,8 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP EXAMPLE
 - Fully functional social media app
-	- User Authentication
 	- Live feed of all posts
 	- CRUD functionality
-- Sarcastic Voice Assistant that can tell the weather and jokes
 
 
 #### PostMVP EXAMPLE
@@ -47,6 +51,8 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Voice assistant that can create posts, like, delete, and have a little conversation.
 - Instant messaging using firebase
 - Allow users to create custom dialogs with voice assistant
+- User Authentication
+- Sarcastic Voice Assistant that can tell the weather and jokes
 
 
 ## Components
