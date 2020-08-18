@@ -1,0 +1,29 @@
+/* *{
+    background-color: #043A6D;
+    color: white;
+    border-color: aliceblue;
+} */
+.homeFeed{
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    height: 100%
+}
+
+.widget {
+
+    margin: 10px auto;
+    width: 90%;
+    height: 85%;
+    /* border: 1px solid black; */
+    border-radius: 50px;
+
+}
+
+.field {
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 85%;
+    height: 30px;
+    /* height: 20px; */
+}
