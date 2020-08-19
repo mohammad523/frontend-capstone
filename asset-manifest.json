@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontend-capstone/static/css/main.5ea3a38d.chunk.css",
+    "main.js": "/frontend-capstone/static/js/main.868781e9.chunk.js",
+    "main.js.map": "/frontend-capstone/static/js/main.868781e9.chunk.js.map",
+    "runtime-main.js": "/frontend-capstone/static/js/runtime-main.aa0bfbd2.js",
+    "runtime-main.js.map": "/frontend-capstone/static/js/runtime-main.aa0bfbd2.js.map",
+    "static/js/2.01a4bda3.chunk.js": "/frontend-capstone/static/js/2.01a4bda3.chunk.js",
+    "static/js/2.01a4bda3.chunk.js.map": "/frontend-capstone/static/js/2.01a4bda3.chunk.js.map",
+    "index.html": "/frontend-capstone/index.html",
+    "precache-manifest.98547c0229d626e66af7fd06c7f7523c.js": "/frontend-capstone/precache-manifest.98547c0229d626e66af7fd06c7f7523c.js",
+    "service-worker.js": "/frontend-capstone/service-worker.js",
+    "static/css/main.5ea3a38d.chunk.css.map": "/frontend-capstone/static/css/main.5ea3a38d.chunk.css.map",
+    "static/js/2.01a4bda3.chunk.js.LICENSE.txt": "/frontend-capstone/static/js/2.01a4bda3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa0bfbd2.js",
+    "static/js/2.01a4bda3.chunk.js",
+    "static/css/main.5ea3a38d.chunk.css",
+    "static/js/main.868781e9.chunk.js"
+  ]
+}
