@@ -7,7 +7,7 @@
 
 - https://github.com/mohammad523/backend-capstone
 
-- [add your deployment link]()
+- [add your deployment link](https://mohammad523.github.io/frontend-capstone/)
 
 ## Stack
 - React.js
@@ -76,27 +76,27 @@ Unless otherwise noted, time is listed in hours:
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Create React app and files for all components | H | 1 | | |
-| Home Feed Layout | H | 2 | | |
-| Set up basic React routing | H | 1 | | |
-| Set up new post component | H | 1 | | |
-| set up logo design | H | 1 |  |  |
-| set up personal assistant | H | 2 | |  |
-| set up personal assistant commands | H | 3 | |  |
-| set up user authentication page | H | 2 | |  |
-| set up back end post data base | H | 1 |  |  |
-| set up instant messaging back-end structure | H | 1 |  |  |
-| set up instant messaging front-end structure | H | 2 |  |  |
-| set up instant messaging chat search | H | 1 | | |
-| set up my profile page | H | 1 |  |  |
-| set up media query for mobile design | H | 1 |  | |
-| Learn how to use Firebase | M | 2 | |  |
-| set up back-end user authentication | M | 2 |  |  |
-| learn useContext | M | 1 |  |  |
-| set up api structure for personal assistant | M | 2 |  | |
-| Allow users to create custom dialogues with PA | L | 3 | || ||
-| Animations everywhere | L | 3 |  | |
-| Total | H | 38 | | |
+| Create React app and files for all components | H | 1 | 2 | 2 |
+| Home Feed Layout | H | 2 | 2 | 2 |
+| Set up basic React routing | H | 1 | 1 | 1 |
+| Set up new post component | H | 1 | 1 | 1 |
+| set up logo design | H | 1 | 30mins | 30mins |
+| set up personal assistant | H | 2 | 0 | 0 |
+| set up personal assistant commands | H | 3 | 0 | 0 |
+| set up user authentication page | H | 2 | 10 | 10 |
+| set up back end post data base | H | 1 | 2 | 2 |
+| set up instant messaging back-end structure | H | 1 | 0 | 0 |
+| set up instant messaging front-end structure | H | 2 | 0 | 0 |
+| set up instant messaging chat search | H | 1 | 0 | 0 |
+| set up my profile page | H | 1 | 0 | 0 |
+| set up media query for mobile design | H | 1 | 0 | 0 |
+| Learn how to use Firebase | M | 2 | 8 | 8 |
+| set up back-end user authentication | M | 2 | 6 | 6 |
+| learn useContext | M | 1 | 1 | 1 |
+| set up api structure for personal assistant | M | 2 | 0 | 0 |
+| Allow users to create custom dialogues with PA | L | 3 | 0 | 0 |
+| Animations everywhere | L | 3 | 0 | 0 |
+| Total | H | 38 | 32 | 32 |
 
 ## Additional Libraries
 Firebase - Instant Messaging
@@ -108,9 +108,26 @@ Use this section to include a brief code snippet of functionality that you are p
 
 
 ```
+<Popup trigger={<button> What's on your mind?</button>} position="right center">
+        <form onSubmit={handleSubmit}>
+           <label>
+                <input className= 'field' type="username" value={username} placeholder="@username"
+                name='username' onChange={handleUNChange}/>
+                <br/>
+            </label>
+           <label>
+                <input className= 'field' type="yourName" value={yourName} placeholder="Your Name"
+                name='yourName' onChange={handleYNChange}/>
+                <br/>
+            </label>
+           <label>
+                <input className= 'field' type="message" value={message} placeholder="What's on your mind?"
+                name='message' onChange={handleMChange}/>
+                <br/>
+            </label>
+            <button>submit</button>
+            </form>
+        </Popup>
 
 ```
 ...
-```
-	
-```
