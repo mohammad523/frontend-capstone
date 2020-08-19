@@ -27,3 +27,12 @@
     height: 30px;
     /* height: 20px; */
 }
+
+.itemHF{
+    border-bottom:dashed gray 1px;
+    text-align: left;
+    padding: 5px 15px
+}
+.userIdHF{
+    /* padding-left: 15px */
+}
