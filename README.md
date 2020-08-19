@@ -7,7 +7,7 @@
 
 - https://github.com/mohammad523/backend-capstone
 
-- [add your deployment link](https://mohammad523.github.io/frontend-capstone/)
+- [deployed link](https://mohammad523.github.io/frontend-capstone/)
 
 ## Stack
 - React.js
